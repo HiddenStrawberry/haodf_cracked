@@ -1,3 +1,3 @@
 # __js_clearance/__cdn_clearance 反爬破解
 
-Get init.js from Wechat: Hiddenstrawberry
+搞了一半发现是加速乐的。。打扰了打扰了
